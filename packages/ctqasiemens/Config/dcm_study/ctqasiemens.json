@@ -1,0 +1,18 @@
+{
+    "actions": {
+        "aqdatetime": {
+            "filters": {},
+            "params": {}
+        },
+        "analysis": {
+            "filters": {},
+            "params": {}
+        }
+    },
+    "cfgformat": "20180910",
+    "comments": {
+        "author": "Erlend Andersen",
+        "description": "Image analysis of the Siemens vendor CT phantom for dual energy",
+        "version": "20220601"
+    }
+}
