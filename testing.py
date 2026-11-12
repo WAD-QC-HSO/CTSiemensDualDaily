@@ -102,15 +102,7 @@ if __name__ == "__main__":
     writeConfig = False
 
     # Force
-    # testdata = r"C:\Users\erlean\Downloads\E5test"
-    # testdata = r"C:\Users\ERLEAN\Downloads\23.05.12080102STD1.3.12.2.1107.5.1.4.74100 23.05.12080102STDSpecials PolyTraum\Specials DagligTest Adult"
 
-    # testdata = r"C:\Users\ERLEAN\Downloads\E5Test\Specials DagligTest Adult\CT DE_Head Slice A_80kV"
-    # testdata = r"C:\Users\ERLEAN\Downloads\E5Test\Specials DagligTest Adult\CT DE_Head Slice B_Sn150kV"
-    # testdata = r"C:\Users\ERLEAN\Downloads\E5Test\Specials DagligTest Adult\CT DE_Head MTF A_80kV"
-    # testdata = r"C:\Users\ERLEAN\Downloads\E5Test\Specials DagligTest Adult\CT DE_Head MTF B_Sn150kV"
-    # testdata = r"C:\Users\ERLEAN\Downloads\E5Test\Specials DagligTest Adult\CT DE_Head Homo B_Sn150kV"
-    # testdata = r"C:\Users\ERLEAN\Downloads\E5Test\Specials DagligTest Adult\CT DE_Head Homo A_80kV"
     testdata = r"C:\Users\ander\siemens"
 
     results = Result()
